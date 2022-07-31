@@ -1,0 +1,38 @@
+1. What is Babel?
+A: React, ES6+ to older version -> HTML, CSS and JS.
+   (This hole process is known as Transpile.)
+
+
+2. What is Webpack?
+A: 10 HTML and 20 JS, 5 CSS
+   This is called Bundling.
+
+
+3. What is NPM?
+A: Node Package Manager.
+
+
+
+4. WHat is Library?
+A: Tool that will help us to doing Something.
+
+
+
+
+5. What is React?
+A: Is a JS Library that is used for Building user interfaces.
+
+
+6. Why do we use React?
+A: It provides us features. Eg->
+        Declaration:
+        Component-Based: Divide code to be managed better.
+        Learn Once- Write Anywhere
+
+
+Type of way which an developer can write a code :-
+    Imperative-> function x(a,b){return a+b; }
+    Declarative-> function add2numbers(a,b){ return a+b; }
+
+
+7. How to use it?
